@@ -5,4 +5,4 @@ https://zixi-liu.github.io/PennMedicineProject/PayorsData_EDA.pdf
 
 Jan 17th, 2020 Social Determinants of Health, Spatial Exploratory Data Analysis
 
-https://zixi-liu.github.io/PennMedicineProject/Payors_Map.pdf
+https://zixi-liu.github.io/PennMedicineProject/Payors_Maps.pdf
